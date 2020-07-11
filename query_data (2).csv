@@ -1,0 +1,14 @@
+﻿AdditionalExtensions
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//;E3MID=132456789/SSN;MASKMODE=PARTIAL
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=//Workflow Logging
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=//Workflow Logging;CLIENTNAME=client1234/clientid123465;DEP=123456789/CSJ MEDSURG dept;IP=10.123.13.12/10.1.132.132;LOGINLDAPID=user21234;OSUSR=osuser1234;ROLE=dr PCT/HUC/CNA SI;SOURCE=1-Hyperspace;USERJOB=123456789/dr acute CNA/PCT/HUC SI
+"workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//Workflow Logging;IP=10.12.12.132/10.123.12.12;LOGINERROR=ELDAP_FAIL_SBIND;LOGINDEVICE=9000/Default Login;LOGINLDAPID=f465789;SOURCE=1-Hyperspace;UID=123456/user212433, doe P"
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=//Workflow Logging;TIMEOUT=Yes;
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//;APIID=00000000g123gtdd535;APPLICATIONID=GJJSNMEJENMR0001343654;INSTANCEURN=urn:hospital:OCPRD.SignalR;IP=170.12.45.78;SERVICECATEGORY=Security;SERVICEID=kjhkjhkjh-some-guid-lkjhlkjhlkjh;SERVICENAME=urn:epic-com:Security.2018.Services.Sessions.v2018_KeepSessionAlive;SERVICETYPE=REST-WebAPI
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//Workflow Logging;AUTHSOURCE=9000/Default Login;LOGINCONTEXT=0-Login;LOGINDEVICE=9000/Default Login;LOGINLDAPID=u321321321;LOGINREVAL=0-No
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=//Workflow Logging;LOGIN= ;MYCACCT=$2fffvf6verf5v6re5gvr6ver6gv51re651v
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//;HKUAPVER=9.3.4;HKUDVCID=6rtg4ret645ve6r5tv65ertrb54rty54hbrby45;HKUOSNAM=iOS;HKUOSVER=13.3
+workstationID=hostname1234;end=Jul 10 17:34:00;flag=Access History//;E3MID=651651651/SSN;MASKMODE=PARTIAL
+workstationID=hostname1234;end=Jul 10 17:35:00;flag=//Workflow Logging;NEWDEPARTMENT=321321654/FMF doe PAIN MANAGEMENT;PREVDEPARTMENT=321351651/FMF doe 
+workstationID=hostname1234;end=Jul 10 17:36:00;flag=//Workflow Logging;NEWDEPARTMENT=3213514654/CTZ MED;PREVDEPARTMENT=321231321/INFUSION
+workstationID=hostname1234;end=Jul 10 17:36:00;flag=//Workflow Logging;TIMEOUT=Yes
